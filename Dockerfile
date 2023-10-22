@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Illegal_Developer
+# Subscribe YouTube Channel For Amazing Bot @Illegal_Developer
+# Ask Doubt on telegram @Illegal_Developers
 
 FROM python:3.10.8-slim-buster
 
