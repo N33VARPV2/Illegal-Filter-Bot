@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Illegal_Developer
+# Subscribe YouTube Channel For Amazing Bot @Illegal_Developer
+# Ask Doubt on telegram @Illegal_Developers
 
 if [ -z $UPSTREAM_REPO ]
 then
@@ -10,7 +10,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Illegal-Filter-Bot-V2 
 fi
-cd /VJ-FILTER-BOT 
+cd /Illegal-Filter-Bot-V2 
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
